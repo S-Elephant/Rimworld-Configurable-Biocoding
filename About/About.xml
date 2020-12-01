@@ -1,0 +1,14 @@
+<ModMetaData>
+	<name>Configurable Biocoding</name>
+	<author>Squirting Elephant</author>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>SquirtingElephant.CofigurableBiocoding</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<description>A tiny mod that allows you to change the biocoding chance on weapons or just completely disable it.</description>
+</ModMetaData>
