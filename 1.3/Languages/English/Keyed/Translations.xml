@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- Settings -->
+  <SECBC_SettingsCategory>Configurable Biocoding</SECBC_SettingsCategory>
+  <SECBC_SetAllFields>set all values</SECBC_SetAllFields>
+  <SECBC_ApplyAll>apply all</SECBC_ApplyAll>
+  <SECBC_HeaderPawnKindName>pawn kind</SECBC_HeaderPawnKindName>
+  <SECBC_HeaderBiocodeChance>biocode %</SECBC_HeaderBiocodeChance>
+  <SECBC_SettingInfo>settings are applied live but will only apply to pawns that haven't been spawned yet.</SECBC_SettingInfo>
+  
+  <!-- Mercenaries -->
+  <SECBC_Grenadier_Destructive>grenadier</SECBC_Grenadier_Destructive>
+  <SECBC_Grenadier_EMP>EMP grenadier</SECBC_Grenadier_EMP>
+  <SECBC_Grenadier_Smoke>smoke grenadier</SECBC_Grenadier_Smoke>
+  <SECBC_Mercenary_Gunner>mercenary gunner</SECBC_Mercenary_Gunner>
+  <SECBC_Mercenary_Sniper>mercenary sniper</SECBC_Mercenary_Sniper>
+  <SECBC_Mercenary_Slasher>mercenary slasher</SECBC_Mercenary_Slasher>
+  <SECBC_Mercenary_Heavy>heavy mercenary</SECBC_Mercenary_Heavy>
+  <SECBC_PirateBoss>boss</SECBC_PirateBoss>
+  <SECBC_Mercenary_Elite>elite mercenary</SECBC_Mercenary_Elite>
+  
+  <!-- Pirates -->
+  <SECBC_Drifter>drifter</SECBC_Drifter>
+  <SECBC_Scavenger>Scavenger</SECBC_Scavenger>
+  <SECBC_Thrasher>scavenger thrasher</SECBC_Thrasher>
+  <SECBC_Pirate>pirate gunner</SECBC_Pirate>
+  
+  <!-- Spacers -->
+  <SECBC_SpaceRefugee>space refugee</SECBC_SpaceRefugee>
+  <SECBC_SpaceRefugee_Clothed>space refugee (clothed)</SECBC_SpaceRefugee_Clothed>  
+  <SECBC_AncientSoldier>ancient soldier</SECBC_AncientSoldier>
+  
+  <!-- Empire -->
+  <SECBC_Empire_Fighter_Trooper>trooper</SECBC_Empire_Fighter_Trooper>
+  <SECBC_Empire_Fighter_Janissary>janissary</SECBC_Empire_Fighter_Janissary>
+  <SECBC_Empire_Fighter_Champion>champion</SECBC_Empire_Fighter_Champion>
+  <SECBC_Empire_Fighter_Cataphract>cataphract</SECBC_Empire_Fighter_Cataphract>
+  <SECBC_Empire_Fighter_StellicGuardRanged>stellic defender</SECBC_Empire_Fighter_StellicGuardRanged>
+  <SECBC_Empire_Fighter_StellicGuardMelee>stellic warden</SECBC_Empire_Fighter_StellicGuardMelee>
+  <SECBC_Empire_Royal_NobleWimp>noble</SECBC_Empire_Royal_NobleWimp>
+  <SECBC_Empire_Royal_Yeoman>yeoman</SECBC_Empire_Royal_Yeoman>
+  <SECBC_Empire_Royal_Esquire>esquire</SECBC_Empire_Royal_Esquire>
+  <SECBC_Empire_Royal_Knight>knight</SECBC_Empire_Royal_Knight>
+  <SECBC_Empire_Royal_Praetor>praetor</SECBC_Empire_Royal_Praetor>
+  <SECBC_Empire_Royal_Baron>baron</SECBC_Empire_Royal_Baron>
+  <SECBC_Empire_Royal_Count>count</SECBC_Empire_Royal_Count>
+  <SECBC_Empire_Royal_Duke>duke</SECBC_Empire_Royal_Duke>
+  <SECBC_Empire_Royal_Consul>consul</SECBC_Empire_Royal_Consul>
+  <SECBC_Empire_Royal_Stellarch>stellarch</SECBC_Empire_Royal_Stellarch>
+  
+  <!-- Other -->
+  <SECBC_Other>everyone else</SECBC_Other>
+  
+</LanguageData>
+
+
+
+
+
+
+
+
+
+
+
