@@ -9,49 +9,6 @@
   <SECBC_HeaderBiocodeChance>biocode %</SECBC_HeaderBiocodeChance>
   <SECBC_SettingInfo>instellingen worden live toegepast maar deze live-changes zijn alleen van toepassing op pawns die nog niet waren gespawned.</SECBC_SettingInfo>
   
-  <!-- Mercenaries -->
-  <SECBC_Grenadier_Destructive>grenadier</SECBC_Grenadier_Destructive>
-  <SECBC_Grenadier_EMP>EMP grenadier</SECBC_Grenadier_EMP>
-  <SECBC_Grenadier_Smoke>rookgordijn grenadier</SECBC_Grenadier_Smoke>
-  <SECBC_Mercenary_Gunner>huurling schutter</SECBC_Mercenary_Gunner>
-  <SECBC_Mercenary_Sniper>huurling scherpschutter</SECBC_Mercenary_Sniper>
-  <SECBC_Mercenary_Slasher>huurling slasher</SECBC_Mercenary_Slasher>
-  <SECBC_Mercenary_Heavy>zware huurling</SECBC_Mercenary_Heavy>
-  <SECBC_PirateBoss>baas</SECBC_PirateBoss>
-  <SECBC_Mercenary_Elite>elite huurling</SECBC_Mercenary_Elite>
-  
-  <!-- Pirates -->
-  <SECBC_Drifter>zwerver</SECBC_Drifter>
-  <SECBC_Scavenger>scavenger</SECBC_Scavenger>
-  <SECBC_Thrasher>scavenger thrasher</SECBC_Thrasher>
-  <SECBC_Pirate>piraat schutter</SECBC_Pirate>
-  
-  <!-- Spacers -->
-  <SECBC_SpaceRefugee>ruimte vluchteling</SECBC_SpaceRefugee>
-  <SECBC_SpaceRefugee_Clothed>ruimte vluchteling (met kleding)</SECBC_SpaceRefugee_Clothed>  
-  <SECBC_AncientSoldier>aloude soldaat</SECBC_AncientSoldier>
-  
-  <!-- Empire -->
-  <SECBC_Empire_Fighter_Trooper>trooper</SECBC_Empire_Fighter_Trooper>
-  <SECBC_Empire_Fighter_Janissary>janissary</SECBC_Empire_Fighter_Janissary>
-  <SECBC_Empire_Fighter_Champion>kampioen</SECBC_Empire_Fighter_Champion>
-  <SECBC_Empire_Fighter_Cataphract>cataphract</SECBC_Empire_Fighter_Cataphract>
-  <SECBC_Empire_Fighter_StellicGuardRanged>stellic verdediger</SECBC_Empire_Fighter_StellicGuardRanged>
-  <SECBC_Empire_Fighter_StellicGuardMelee>stellic bewaker</SECBC_Empire_Fighter_StellicGuardMelee>
-  <SECBC_Empire_Royal_NobleWimp>van adel</SECBC_Empire_Royal_NobleWimp>
-  <SECBC_Empire_Royal_Yeoman>yeoman</SECBC_Empire_Royal_Yeoman>
-  <SECBC_Empire_Royal_Esquire>schildknaap</SECBC_Empire_Royal_Esquire>
-  <SECBC_Empire_Royal_Knight>ridder</SECBC_Empire_Royal_Knight>
-  <SECBC_Empire_Royal_Praetor>praetor</SECBC_Empire_Royal_Praetor>
-  <SECBC_Empire_Royal_Baron>baron</SECBC_Empire_Royal_Baron>
-  <SECBC_Empire_Royal_Count>graaf</SECBC_Empire_Royal_Count>
-  <SECBC_Empire_Royal_Duke>hertog</SECBC_Empire_Royal_Duke>
-  <SECBC_Empire_Royal_Consul>consul</SECBC_Empire_Royal_Consul>
-  <SECBC_Empire_Royal_Stellarch>stellarch</SECBC_Empire_Royal_Stellarch>
-  
-  <!-- Other -->
-  <SECBC_Other>iedereen anders</SECBC_Other>
-  
 </LanguageData>
 
 

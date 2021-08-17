@@ -5,20 +5,19 @@ namespace SquirtingElephant.ConfigurableBiocoding
     public class BiocodeData : IExposable
     {
         public float BiocodeChance;
-        public readonly string SettingsTranslationKey;
+        public readonly string Label;
         public string DefName;
 
-        public BiocodeData(string defName, string settingsTranslationKey, float biocodeChance = Consts.VANILLA_BIOCODE_CHANCE)
+        public BiocodeData(string defName, string label, float biocodeChance = Consts.VANILLA_BIOCODE_CHANCE)
         {
             DefName = defName;
-            SettingsTranslationKey = settingsTranslationKey;
+            Label = label;
             BiocodeChance = biocodeChance;
         }
 
         public void ExposeData()
         {
-            Scribe_Values.Look(ref DefName, "SECBC_DefName", null, true);
-            Scribe_Values.Look(ref BiocodeChance, "SECBC_BiocodeChance", Consts.VANILLA_BIOCODE_CHANCE);
+            Scribe_Values.Look(ref BiocodeChance, $"SECBC_{DefName}_BiocodeChance", Consts.VANILLA_BIOCODE_CHANCE, true);
         }
     }
 }
